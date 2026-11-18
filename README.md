@@ -1,1 +1,1 @@
-git clone https://github.com/<ton-pseudo>/dotfiles.git ~/dotfiles && ~/dotfiles/install.sh
+git clone https://github.com/Nauthizful/dotfiles/ ~/dotfiles && ~/dotfiles/install.sh
